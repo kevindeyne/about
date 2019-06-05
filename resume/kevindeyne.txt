@@ -1,0 +1,43 @@
+﻿Kevin Deyne
+Software Engineer (Java/J2EE, Web)
+Ploegstraat 11 - 2440 Geel, Belgium
+kevin.deyne@gmail.com
+
+Highly qualified and certified Software Engineer with over 4 years of experience covering the entire application lifecycle, including design, development and maintenance. 
+Various experience, including work for different government instances, a medical research company and a renewable energy group.
+Languages: Java, Spring, Javascript, jQuery, HTML5, CSS, T-SQL, XML/JSON, JSP, Thymeleaf
+Databases: MSSQL, MySQL, MongoDB, Oracle 10g, Hibernate, JPA
+Other: SOA, REST, SOAP, OOD, TDD, SCRUM, KANBAN, Eclipse, JUnit, Maven, Tomcat, Jboss
+
+
+Professional Experience
+---
+
+Software Engineer - Central Civic Integration Database (Mar 2012 to Present)
+Creating unified SOA system for different .gov groups. This included an array of web services (REST/SOAP), and several UIs to manage 42K client immigrant dossiers each year.
+•	Helped overcome the challenges of RealDolmen’s biggest multi-million dollar project yet.
+•	Provided significant dev work on key components processing about 97K+ enrollments/year and built a robust system for 400+ government employees every day.
+•	The project also successfully provided civic integration during the Syrian refugee crisis, providing an extra strain and strong challenges for our systems.
+
+
+Junior Software Engineer - 3E Renewable Energy Consulting (Nov 2011 to Jan 2012)
+Prototype responsive HTML5 web application for tablets and desktop alike for energy plant management.
+•	Created a highly extendable search engine for this specific usecase with Spring and jQuery
+
+
+Internship - Janssen Pharmaceuticals (Feb 2011 to Jun 2011)
+Development of KNIME nodes and workflows which were integrated into the PHEADRA system for routine blood research using Flow Cytometry (Cell Filtering and Spillover Compensation).
+•	Learned and worked with an awesome niche framework and was able to hone my skills in a complicated but highly satisfying scientific context.
+
+
+Certifications (Pearson Vue - Oracle)
+---
+Java EE 6 Enterprise JavaBeans Developer Certified Expert (Dec 2014)
+Java EE 6 Java Persistence API Developer Certified Expert (Jul 2012)
+Java Standard Edition 6 Programmer Certified Professional (Jan 2012)
+
+
+Education
+---
+Katholieke Hogeschool Kempen (2008 - 2011)
+Bachelor of Computer Science, Application Development, Cum Laude
